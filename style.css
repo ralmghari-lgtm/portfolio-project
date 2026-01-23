@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #f9f9f9;
+}
+
+h1 {
+    color: rgb(0, 23, 139);
+    text-align: center;
+}
+
+.post {
+    border: 1px solid #d3d3d3;
+    padding: 10px;
+    margin: 10px 0;
+    background-color: #ffffff;
+}
+
+.post h2 {
+    color: #333333;
+}
+
+.post p {
+    color: #606060;
+}
