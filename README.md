@@ -1,2 +1,4 @@
-# My First Git Project
-Hello world, this is my first git project.
+# Portfolio Project  
+Version: v1.0    
+ Added blog section with 3 previews  
+ Added styles for blog section  
